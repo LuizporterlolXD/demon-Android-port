@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Sar_Assets.png">
+	<!-- Created with Adobe Animate version 21.0.1.37179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="SarDown0000" x="10" y="10" width="463" height="703" frameX="0" frameY="-13" frameWidth="463" frameHeight="716"/>
+	<SubTexture name="SarDown0001" x="10" y="10" width="463" height="703" frameX="0" frameY="-13" frameWidth="463" frameHeight="716"/>
+	<SubTexture name="SarDown0002" x="555" y="10" width="454" height="715" frameX="-4" frameY="-1" frameWidth="463" frameHeight="716"/>
+	<SubTexture name="SarDown0003" x="555" y="10" width="454" height="715" frameX="-4" frameY="-1" frameWidth="463" frameHeight="716"/>
+	<SubTexture name="SarDown0004" x="1091" y="10" width="450" height="716" frameX="-4" frameY="0" frameWidth="463" frameHeight="716"/>
+	<SubTexture name="SarDown0005" x="1091" y="10" width="450" height="716" frameX="-4" frameY="0" frameWidth="463" frameHeight="716"/>
+	<SubTexture name="SarDown0006" x="1623" y="10" width="450" height="716" frameX="-4" frameY="0" frameWidth="463" frameHeight="716"/>
+	<SubTexture name="SarDown0007" x="1623" y="10" width="450" height="716" frameX="-4" frameY="0" frameWidth="463" frameHeight="716"/>
+	<SubTexture name="SarDown0008" x="1623" y="10" width="450" height="716" frameX="-4" frameY="0" frameWidth="463" frameHeight="716"/>
+	<SubTexture name="SarDown0009" x="1623" y="10" width="450" height="716" frameX="-4" frameY="0" frameWidth="463" frameHeight="716"/>
+	<SubTexture name="SarDown0010" x="1623" y="10" width="450" height="716" frameX="-4" frameY="0" frameWidth="463" frameHeight="716"/>
+	<SubTexture name="SarDown0011" x="1623" y="10" width="450" height="716" frameX="-4" frameY="0" frameWidth="463" frameHeight="716"/>
+	<SubTexture name="SarDown0012" x="1623" y="10" width="450" height="716" frameX="-4" frameY="0" frameWidth="463" frameHeight="716"/>
+	<SubTexture name="SarDown0013" x="1623" y="10" width="450" height="716" frameX="-4" frameY="0" frameWidth="463" frameHeight="716"/>
+	<SubTexture name="SarIdle0000" x="2155" y="10" width="424" height="768" frameX="0" frameY="-13" frameWidth="432" frameHeight="781"/>
+	<SubTexture name="SarIdle0001" x="2155" y="10" width="424" height="768" frameX="0" frameY="-13" frameWidth="432" frameHeight="781"/>
+	<SubTexture name="SarIdle0002" x="2661" y="10" width="424" height="770" frameX="-2" frameY="-11" frameWidth="432" frameHeight="781"/>
+	<SubTexture name="SarIdle0003" x="2661" y="10" width="424" height="770" frameX="-2" frameY="-11" frameWidth="432" frameHeight="781"/>
+	<SubTexture name="SarIdle0004" x="3167" y="10" width="427" height="773" frameX="-5" frameY="-8" frameWidth="432" frameHeight="781"/>
+	<SubTexture name="SarIdle0005" x="3167" y="10" width="427" height="773" frameX="-5" frameY="-8" frameWidth="432" frameHeight="781"/>
+	<SubTexture name="SarIdle0006" x="10" y="865" width="423" height="777" frameX="-5" frameY="-4" frameWidth="432" frameHeight="781"/>
+	<SubTexture name="SarIdle0007" x="10" y="865" width="423" height="777" frameX="-5" frameY="-4" frameWidth="432" frameHeight="781"/>
+	<SubTexture name="SarIdle0008" x="515" y="865" width="422" height="780" frameX="-5" frameY="-1" frameWidth="432" frameHeight="781"/>
+	<SubTexture name="SarIdle0009" x="515" y="865" width="422" height="780" frameX="-5" frameY="-1" frameWidth="432" frameHeight="781"/>
+	<SubTexture name="SarIdle0010" x="1019" y="865" width="420" height="781" frameX="-6" frameY="0" frameWidth="432" frameHeight="781"/>
+	<SubTexture name="SarIdle0011" x="1019" y="865" width="420" height="781" frameX="-6" frameY="0" frameWidth="432" frameHeight="781"/>
+	<SubTexture name="SarIdle0012" x="1019" y="865" width="420" height="781" frameX="-6" frameY="0" frameWidth="432" frameHeight="781"/>
+	<SubTexture name="SarIdle0013" x="1019" y="865" width="420" height="781" frameX="-6" frameY="0" frameWidth="432" frameHeight="781"/>
+	<SubTexture name="SarLeft0000" x="1521" y="865" width="410" height="768" frameX="0" frameY="-1" frameWidth="411" frameHeight="769"/>
+	<SubTexture name="SarLeft0001" x="1521" y="865" width="410" height="768" frameX="0" frameY="-1" frameWidth="411" frameHeight="769"/>
+	<SubTexture name="SarLeft0002" x="2013" y="865" width="408" height="769" frameX="-3" frameY="0" frameWidth="411" frameHeight="769"/>
+	<SubTexture name="SarLeft0003" x="2013" y="865" width="408" height="769" frameX="-3" frameY="0" frameWidth="411" frameHeight="769"/>
+	<SubTexture name="SarLeft0004" x="2503" y="865" width="408" height="769" frameX="-3" frameY="0" frameWidth="411" frameHeight="769"/>
+	<SubTexture name="SarLeft0005" x="2503" y="865" width="408" height="769" frameX="-3" frameY="0" frameWidth="411" frameHeight="769"/>
+	<SubTexture name="SarLeft0006" x="2503" y="865" width="408" height="769" frameX="-3" frameY="0" frameWidth="411" frameHeight="769"/>
+	<SubTexture name="SarLeft0007" x="2503" y="865" width="408" height="769" frameX="-3" frameY="0" frameWidth="411" frameHeight="769"/>
+	<SubTexture name="SarLeft0008" x="2503" y="865" width="408" height="769" frameX="-3" frameY="0" frameWidth="411" frameHeight="769"/>
+	<SubTexture name="SarLeft0009" x="2503" y="865" width="408" height="769" frameX="-3" frameY="0" frameWidth="411" frameHeight="769"/>
+	<SubTexture name="SarLeft0010" x="2503" y="865" width="408" height="769" frameX="-3" frameY="0" frameWidth="411" frameHeight="769"/>
+	<SubTexture name="SarLeft0011" x="2503" y="865" width="408" height="769" frameX="-3" frameY="0" frameWidth="411" frameHeight="769"/>
+	<SubTexture name="SarLeft0012" x="2503" y="865" width="408" height="769" frameX="-3" frameY="0" frameWidth="411" frameHeight="769"/>
+	<SubTexture name="SarLeft0013" x="2503" y="865" width="408" height="769" frameX="-3" frameY="0" frameWidth="411" frameHeight="769"/>
+	<SubTexture name="SarRight0000" x="2993" y="865" width="529" height="761"/>
+	<SubTexture name="SarRight0001" x="2993" y="865" width="529" height="761"/>
+	<SubTexture name="SarRight0002" x="10" y="1728" width="515" height="761" frameX="-4" frameY="0" frameWidth="529" frameHeight="761"/>
+	<SubTexture name="SarRight0003" x="10" y="1728" width="515" height="761" frameX="-4" frameY="0" frameWidth="529" frameHeight="761"/>
+	<SubTexture name="SarRight0004" x="607" y="1728" width="515" height="761" frameX="-4" frameY="0" frameWidth="529" frameHeight="761"/>
+	<SubTexture name="SarRight0005" x="607" y="1728" width="515" height="761" frameX="-4" frameY="0" frameWidth="529" frameHeight="761"/>
+	<SubTexture name="SarRight0006" x="1204" y="1728" width="515" height="761" frameX="-4" frameY="0" frameWidth="529" frameHeight="761"/>
+	<SubTexture name="SarRight0007" x="1204" y="1728" width="515" height="761" frameX="-4" frameY="0" frameWidth="529" frameHeight="761"/>
+	<SubTexture name="SarRight0008" x="1204" y="1728" width="515" height="761" frameX="-4" frameY="0" frameWidth="529" frameHeight="761"/>
+	<SubTexture name="SarRight0009" x="1204" y="1728" width="515" height="761" frameX="-4" frameY="0" frameWidth="529" frameHeight="761"/>
+	<SubTexture name="SarRight0010" x="1204" y="1728" width="515" height="761" frameX="-4" frameY="0" frameWidth="529" frameHeight="761"/>
+	<SubTexture name="SarRight0011" x="1204" y="1728" width="515" height="761" frameX="-4" frameY="0" frameWidth="529" frameHeight="761"/>
+	<SubTexture name="SarRight0012" x="1204" y="1728" width="515" height="761" frameX="-4" frameY="0" frameWidth="529" frameHeight="761"/>
+	<SubTexture name="SarRight0013" x="1204" y="1728" width="515" height="761" frameX="-4" frameY="0" frameWidth="529" frameHeight="761"/>
+	<SubTexture name="SarUp0000" x="1801" y="1728" width="448" height="800" frameX="-23" frameY="0" frameWidth="471" frameHeight="800"/>
+	<SubTexture name="SarUp0001" x="1801" y="1728" width="448" height="800" frameX="-23" frameY="0" frameWidth="471" frameHeight="800"/>
+	<SubTexture name="SarUp0002" x="2331" y="1728" width="468" height="787" frameX="0" frameY="-13" frameWidth="471" frameHeight="800"/>
+	<SubTexture name="SarUp0003" x="2331" y="1728" width="468" height="787" frameX="0" frameY="-13" frameWidth="471" frameHeight="800"/>
+	<SubTexture name="SarUp0004" x="2881" y="1728" width="468" height="787" frameX="0" frameY="-13" frameWidth="471" frameHeight="800"/>
+	<SubTexture name="SarUp0005" x="2881" y="1728" width="468" height="787" frameX="0" frameY="-13" frameWidth="471" frameHeight="800"/>
+	<SubTexture name="SarUp0006" x="3431" y="1728" width="468" height="787" frameX="0" frameY="-13" frameWidth="471" frameHeight="800"/>
+	<SubTexture name="SarUp0007" x="3431" y="1728" width="468" height="787" frameX="0" frameY="-13" frameWidth="471" frameHeight="800"/>
+	<SubTexture name="SarUp0008" x="3431" y="1728" width="468" height="787" frameX="0" frameY="-13" frameWidth="471" frameHeight="800"/>
+	<SubTexture name="SarUp0009" x="3431" y="1728" width="468" height="787" frameX="0" frameY="-13" frameWidth="471" frameHeight="800"/>
+	<SubTexture name="SarUp0010" x="3431" y="1728" width="468" height="787" frameX="0" frameY="-13" frameWidth="471" frameHeight="800"/>
+	<SubTexture name="SarUp0011" x="3431" y="1728" width="468" height="787" frameX="0" frameY="-13" frameWidth="471" frameHeight="800"/>
+	<SubTexture name="SarUp0012" x="3431" y="1728" width="468" height="787" frameX="0" frameY="-13" frameWidth="471" frameHeight="800"/>
+	<SubTexture name="SarUp0013" x="3431" y="1728" width="468" height="787" frameX="0" frameY="-13" frameWidth="471" frameHeight="800"/>
+</TextureAtlas>

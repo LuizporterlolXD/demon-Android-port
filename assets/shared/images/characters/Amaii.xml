@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Amaii.png">
+	<!-- Created with Adobe Animate version 21.0.1.37179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="AmaiiDown0000" x="10" y="10" width="674" height="816" frameX="-30" frameY="-15" frameWidth="704" frameHeight="831"/>
+	<SubTexture name="AmaiiDown0001" x="10" y="10" width="674" height="816" frameX="-30" frameY="-15" frameWidth="704" frameHeight="831"/>
+	<SubTexture name="AmaiiDown0002" x="766" y="10" width="658" height="831" frameX="0" frameY="0" frameWidth="704" frameHeight="831"/>
+	<SubTexture name="AmaiiDown0003" x="766" y="10" width="658" height="831" frameX="0" frameY="0" frameWidth="704" frameHeight="831"/>
+	<SubTexture name="AmaiiDown0004" x="766" y="10" width="658" height="831" frameX="0" frameY="0" frameWidth="704" frameHeight="831"/>
+	<SubTexture name="AmaiiDown0005" x="766" y="10" width="658" height="831" frameX="0" frameY="0" frameWidth="704" frameHeight="831"/>
+	<SubTexture name="AmaiiDown0006" x="766" y="10" width="658" height="831" frameX="0" frameY="0" frameWidth="704" frameHeight="831"/>
+	<SubTexture name="AmaiiDown0007" x="766" y="10" width="658" height="831" frameX="0" frameY="0" frameWidth="704" frameHeight="831"/>
+	<SubTexture name="AmaiiDown0008" x="766" y="10" width="658" height="831" frameX="0" frameY="0" frameWidth="704" frameHeight="831"/>
+	<SubTexture name="AmaiiDown0009" x="766" y="10" width="658" height="831" frameX="0" frameY="0" frameWidth="704" frameHeight="831"/>
+	<SubTexture name="AmaiiDown0010" x="766" y="10" width="658" height="831" frameX="0" frameY="0" frameWidth="704" frameHeight="831"/>
+	<SubTexture name="AmaiiDown0011" x="766" y="10" width="658" height="831" frameX="0" frameY="0" frameWidth="704" frameHeight="831"/>
+	<SubTexture name="AmaiiDown0012" x="766" y="10" width="658" height="831" frameX="0" frameY="0" frameWidth="704" frameHeight="831"/>
+	<SubTexture name="AmaiiDown0013" x="766" y="10" width="658" height="831" frameX="0" frameY="0" frameWidth="704" frameHeight="831"/>
+	<SubTexture name="AmaiiIdle0000" x="1506" y="10" width="502" height="897" frameX="-15" frameY="-14" frameWidth="517" frameHeight="911"/>
+	<SubTexture name="AmaiiIdle0001" x="1506" y="10" width="502" height="897" frameX="-15" frameY="-14" frameWidth="517" frameHeight="911"/>
+	<SubTexture name="AmaiiIdle0002" x="2090" y="10" width="491" height="893" frameX="-23" frameY="-18" frameWidth="517" frameHeight="911"/>
+	<SubTexture name="AmaiiIdle0003" x="2090" y="10" width="491" height="893" frameX="-23" frameY="-18" frameWidth="517" frameHeight="911"/>
+	<SubTexture name="AmaiiIdle0004" x="2663" y="10" width="471" height="893" frameX="-23" frameY="-18" frameWidth="517" frameHeight="911"/>
+	<SubTexture name="AmaiiIdle0005" x="3216" y="10" width="478" height="903" frameX="-16" frameY="-8" frameWidth="517" frameHeight="911"/>
+	<SubTexture name="AmaiiIdle0006" x="10" y="995" width="476" height="903" frameX="-16" frameY="-8" frameWidth="517" frameHeight="911"/>
+	<SubTexture name="AmaiiIdle0007" x="568" y="995" width="488" height="909" frameX="-4" frameY="-2" frameWidth="517" frameHeight="911"/>
+	<SubTexture name="AmaiiIdle0008" x="1138" y="995" width="488" height="909" frameX="-4" frameY="-2" frameWidth="517" frameHeight="911"/>
+	<SubTexture name="AmaiiIdle0009" x="1708" y="995" width="492" height="911" frameX="0" frameY="0" frameWidth="517" frameHeight="911"/>
+	<SubTexture name="AmaiiIdle0010" x="1708" y="995" width="492" height="911" frameX="0" frameY="0" frameWidth="517" frameHeight="911"/>
+	<SubTexture name="AmaiiIdle0011" x="1708" y="995" width="492" height="911" frameX="0" frameY="0" frameWidth="517" frameHeight="911"/>
+	<SubTexture name="AmaiiIdle0012" x="1708" y="995" width="492" height="911" frameX="0" frameY="0" frameWidth="517" frameHeight="911"/>
+	<SubTexture name="AmaiiIdle0013" x="1708" y="995" width="492" height="911" frameX="0" frameY="0" frameWidth="517" frameHeight="911"/>
+	<SubTexture name="AmaiiLeft0000" x="2282" y="995" width="667" height="854" frameX="0" frameY="-7" frameWidth="667" frameHeight="861"/>
+	<SubTexture name="AmaiiLeft0001" x="2282" y="995" width="667" height="854" frameX="0" frameY="-7" frameWidth="667" frameHeight="861"/>
+	<SubTexture name="AmaiiLeft0002" x="3031" y="995" width="644" height="861" frameX="-16" frameY="0" frameWidth="667" frameHeight="861"/>
+	<SubTexture name="AmaiiLeft0003" x="3031" y="995" width="644" height="861" frameX="-16" frameY="0" frameWidth="667" frameHeight="861"/>
+	<SubTexture name="AmaiiLeft0004" x="3031" y="995" width="644" height="861" frameX="-16" frameY="0" frameWidth="667" frameHeight="861"/>
+	<SubTexture name="AmaiiLeft0005" x="3031" y="995" width="644" height="861" frameX="-16" frameY="0" frameWidth="667" frameHeight="861"/>
+	<SubTexture name="AmaiiLeft0006" x="3031" y="995" width="644" height="861" frameX="-16" frameY="0" frameWidth="667" frameHeight="861"/>
+	<SubTexture name="AmaiiLeft0007" x="3031" y="995" width="644" height="861" frameX="-16" frameY="0" frameWidth="667" frameHeight="861"/>
+	<SubTexture name="AmaiiLeft0008" x="3031" y="995" width="644" height="861" frameX="-16" frameY="0" frameWidth="667" frameHeight="861"/>
+	<SubTexture name="AmaiiLeft0009" x="3031" y="995" width="644" height="861" frameX="-16" frameY="0" frameWidth="667" frameHeight="861"/>
+	<SubTexture name="AmaiiRight0000" x="10" y="1988" width="686" height="861" frameX="-25" frameY="-19" frameWidth="711" frameHeight="880"/>
+	<SubTexture name="AmaiiRight0001" x="10" y="1988" width="686" height="861" frameX="-25" frameY="-19" frameWidth="711" frameHeight="880"/>
+	<SubTexture name="AmaiiRight0002" x="778" y="1988" width="676" height="879" frameX="0" frameY="0" frameWidth="711" frameHeight="880"/>
+	<SubTexture name="AmaiiRight0003" x="778" y="1988" width="676" height="879" frameX="0" frameY="0" frameWidth="711" frameHeight="880"/>
+	<SubTexture name="AmaiiRight0004" x="778" y="1988" width="676" height="879" frameX="0" frameY="0" frameWidth="711" frameHeight="880"/>
+	<SubTexture name="AmaiiRight0005" x="778" y="1988" width="676" height="879" frameX="0" frameY="0" frameWidth="711" frameHeight="880"/>
+	<SubTexture name="AmaiiRight0006" x="778" y="1988" width="676" height="879" frameX="0" frameY="0" frameWidth="711" frameHeight="880"/>
+	<SubTexture name="AmaiiRight0007" x="778" y="1988" width="676" height="879" frameX="0" frameY="0" frameWidth="711" frameHeight="880"/>
+	<SubTexture name="AmaiiRight0008" x="778" y="1988" width="676" height="879" frameX="0" frameY="0" frameWidth="711" frameHeight="880"/>
+	<SubTexture name="AmaiiRight0009" x="778" y="1988" width="676" height="879" frameX="0" frameY="0" frameWidth="711" frameHeight="880"/>
+	<SubTexture name="AmaiiUp0000" x="1536" y="1988" width="475" height="935" frameX="-11" frameY="0" frameWidth="500" frameHeight="935"/>
+	<SubTexture name="AmaiiUp0001" x="1536" y="1988" width="475" height="935" frameX="-11" frameY="0" frameWidth="500" frameHeight="935"/>
+	<SubTexture name="AmaiiUp0002" x="2093" y="1988" width="500" height="919" frameX="0" frameY="-16" frameWidth="500" frameHeight="935"/>
+	<SubTexture name="AmaiiUp0003" x="2093" y="1988" width="500" height="919" frameX="0" frameY="-16" frameWidth="500" frameHeight="935"/>
+	<SubTexture name="AmaiiUp0004" x="2093" y="1988" width="500" height="919" frameX="0" frameY="-16" frameWidth="500" frameHeight="935"/>
+	<SubTexture name="AmaiiUp0005" x="2093" y="1988" width="500" height="919" frameX="0" frameY="-16" frameWidth="500" frameHeight="935"/>
+	<SubTexture name="AmaiiUp0006" x="2093" y="1988" width="500" height="919" frameX="0" frameY="-16" frameWidth="500" frameHeight="935"/>
+	<SubTexture name="AmaiiUp0007" x="2093" y="1988" width="500" height="919" frameX="0" frameY="-16" frameWidth="500" frameHeight="935"/>
+	<SubTexture name="AmaiiUp0008" x="2093" y="1988" width="500" height="919" frameX="0" frameY="-16" frameWidth="500" frameHeight="935"/>
+	<SubTexture name="AmaiiUp0009" x="2093" y="1988" width="500" height="919" frameX="0" frameY="-16" frameWidth="500" frameHeight="935"/>
+</TextureAtlas>
