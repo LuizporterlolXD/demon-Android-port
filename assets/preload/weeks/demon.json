@@ -1,0 +1,50 @@
+{
+	"storyName": "Y",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Amaii",
+			"amaii",
+			[
+				255,
+				255,
+				253
+			]
+		],
+		[
+			"bad vibes",
+			"amaii",
+			[
+				255,
+				255,
+				253
+			]
+		],
+		[
+			"kalsping",
+			"sar",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": ""
+}
